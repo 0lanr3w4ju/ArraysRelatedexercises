@@ -49,6 +49,6 @@ public class SalesCommission {
         System.out.printf("$%d-%d: %d%n", 700, 799, range799);
         System.out.printf("$%d-%d: %d%n", 800, 899, range899);
         System.out.printf("$%d-%d: %d%n", 900, 999, range999);
-        System.out.printf("$%d and %s: %d%n", 1000, "over", range1000);
+        System.out.printf("$%d & %s: %d%n", 1000, "over", range1000);
     }
 }
