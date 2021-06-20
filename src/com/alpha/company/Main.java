@@ -6,6 +6,21 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
+
+//        String number = "10";
+//
+//        int number1 = Integer.parseInt(number);
+//
+//        System.out.println(number1);
+
+//        String[] a = new String[7];
+//
+//        for (String b:
+//             a) {
+//            System.out.println(b);
+//        }
+//        System.out.println(a.length);
+
 //        DuplicateElimination duplicateElimination = new DuplicateElimination();
 //        duplicateElimination.unknown(57);
 //        duplicateElimination.unknown(20);
