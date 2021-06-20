@@ -6,24 +6,24 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        DuplicateElimination duplicateElimination = new DuplicateElimination();
-        duplicateElimination.unknown(57);
-        duplicateElimination.unknown(20);
-        duplicateElimination.unknown(57);
-        duplicateElimination.unknown(32);
-        duplicateElimination.unknown(56);
-        duplicateElimination.unknown(32);
-        duplicateElimination.unknown(56);
-        duplicateElimination.unknown(200);
-        duplicateElimination.unknown(100);
-        duplicateElimination.unknown(20);
-        duplicateElimination.unknown(32);
-        duplicateElimination.unknown(32);
-
-        for (int ignored:
-                duplicateElimination.fiveElementArray) {
-            System.out.println(ignored);
-        }
+//        DuplicateElimination duplicateElimination = new DuplicateElimination();
+//        duplicateElimination.unknown(57);
+//        duplicateElimination.unknown(20);
+//        duplicateElimination.unknown(57);
+//        duplicateElimination.unknown(32);
+//        duplicateElimination.unknown(56);
+//        duplicateElimination.unknown(32);
+//        duplicateElimination.unknown(56);
+//        duplicateElimination.unknown(200);
+//        duplicateElimination.unknown(100);
+//        duplicateElimination.unknown(20);
+//        duplicateElimination.unknown(32);
+//        duplicateElimination.unknown(32);
+//
+//        for (int ignored:
+//                duplicateElimination.fiveElementArray) {
+//            System.out.println(ignored);
+//        }
 
 //        SalesCommission salesCommission = new SalesCommission();
 //        salesCommission.printHowManySalesPeopleEarnedInWhatRange(5000, 5000, 5000);
