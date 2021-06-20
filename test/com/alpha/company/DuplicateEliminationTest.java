@@ -12,6 +12,7 @@ class DuplicateEliminationTest {
         duplicateElimination.unknown(57);
         duplicateElimination.unknown(20);
         duplicateElimination.unknown(57);
+//        duplicateElimination.unknown(32);
         assertEquals(0, duplicateElimination.fiveElementArray[2]);
     }
 }

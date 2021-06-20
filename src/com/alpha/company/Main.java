@@ -10,6 +10,15 @@ public class Main {
         duplicateElimination.unknown(57);
         duplicateElimination.unknown(20);
         duplicateElimination.unknown(57);
+        duplicateElimination.unknown(32);
+        duplicateElimination.unknown(56);
+        duplicateElimination.unknown(32);
+        duplicateElimination.unknown(56);
+        duplicateElimination.unknown(200);
+        duplicateElimination.unknown(100);
+        duplicateElimination.unknown(20);
+        duplicateElimination.unknown(32);
+        duplicateElimination.unknown(32);
 
         for (int ignored:
                 duplicateElimination.fiveElementArray) {
